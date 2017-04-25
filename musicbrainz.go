@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"os"
 
 	"github.com/michiwend/gomusicbrainz"
 )
 
-func getArtist(name string) {
+func searchArtist(name string) {
 	query := `artist:"` + name + `"`
 
 	// create a new WS2Client.
@@ -18,16 +19,30 @@ func getArtist(name string) {
 		"http://github.com/qawarrior/go-examples",
 	)
 	if err != nil {
-		fmt.Println(err)
+		log.Println(err)
 		os.Exit(1)
 	}
 
 	resp, err := client.SearchArtist(query, -1, -1)
 	if err != nil {
-		fmt.Println(err)
+		log.Println(err)
 		os.Exit(1)
 	}
 
-	artist := resp.Artists[0]
-	fmt.Print(artist.Name, artist.Area.Name, artist.ID, artist.Aliases)
+	fmt.Printf("Artist: %v", resp.ResultsWithScore(100)[0])
+	fmt.Println(" ")
+	searchArtistRelease(query, client)
+}
+
+func searchArtistRelease(query string, client *gomusicbrainz.WS2Client) {
+	resp, err := client.SearchRelease(query, -1, -1)
+	if err != nil {
+		log.Println(err)
+		os.Exit(1)
+	}
+
+	for _, release := range resp.ResultsWithScore(100) {
+		fmt.Printf("Release: %v", release)
+		fmt.Println(" ")
+	}
 }
