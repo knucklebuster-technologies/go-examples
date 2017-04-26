@@ -5,8 +5,8 @@ func main() {
 	//searchArtist("Cock Sparrer")
 
 	// get the current working directory
-	getWorkingDir()
+	//getWorkingDir()
 
 	// create a new absolute path
-	getAbsPath()
+	//getAbsPath()
 }
