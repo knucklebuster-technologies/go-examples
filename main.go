@@ -1,7 +1,5 @@
 package main
 
-import "time"
-
 func main() {
 	// use musicbrainz web service
 	//searchArtist("Cock Sparrer")
@@ -12,6 +10,10 @@ func main() {
 	// create a new absolute path
 	//getAbsPath()
 
-	startMongod()
-	time.Sleep(time.Hour * 1)
+	// startMongod()
+	// time.Sleep(time.Hour * 1)
+
+	// doesPathExist()
+
+	createNewDirectory()
 }
