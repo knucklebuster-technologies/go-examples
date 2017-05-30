@@ -1,7 +1,9 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 
@@ -41,8 +43,20 @@ func searchArtistRelease(query string, client *gomusicbrainz.WS2Client) {
 		os.Exit(1)
 	}
 
-	for _, release := range resp.ResultsWithScore(100) {
-		fmt.Printf("Release: %v", release)
-		fmt.Println(" ")
+	b, err := json.Marshal(resp.ResultsWithScore(100))
+	if err != nil {
+		log.Println(err)
+		os.Exit(1)
 	}
+
+	err = ioutil.WriteFile("release.json", b, 0644)
+	if err != nil {
+		log.Println(err)
+		os.Exit(1)
+	}
+
+	// for _, release := range resp.ResultsWithScore(100) {
+	// 	fmt.Printf("Release: %v", release)
+	// 	fmt.Println(" ")
+	// }
 }

@@ -1,0 +1,77 @@
+{
+    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+    "Type": "Group",
+    "Name": "Cock Sparrer",
+    "Disambiguation": "",
+    "SortName": "Cock Sparrer",
+    "CountryCode": "GB",
+    "Gender": "",
+    "Lifespan": {
+        "Begin": "1974-01-01T00:00:00Z",
+        "End": "0001-01-01T00:00:00Z",
+        "Ended": false
+    },
+    "Area": {
+        "ID": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "Type": "",
+        "Name": "United Kingdom",
+        "SortName": "United Kingdom",
+        "ISO31662Codes": null,
+        "Lifespan": {
+            "Begin": "0001-01-01T00:00:00Z",
+            "End": "0001-01-01T00:00:00Z",
+            "Ended": false
+        },
+        "Aliases": null
+    },
+    "BeginArea": {
+        "ID": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "Type": "",
+        "Name": "London",
+        "SortName": "London",
+        "ISO31662Codes": null,
+        "Lifespan": {
+            "Begin": "0001-01-01T00:00:00Z",
+            "End": "0001-01-01T00:00:00Z",
+            "Ended": false
+        },
+        "Aliases": null
+    },
+    "Aliases": [{
+        "Name": "Cocksparrer",
+        "SortName": "Cocksparrer",
+        "Locale": "",
+        "Type": "",
+        "Primary": ""
+    }],
+    "Tags": [{
+            "Count": 1,
+            "Name": "rock"
+        },
+        {
+            "Count": 1,
+            "Name": "punk"
+        },
+        {
+            "Count": 1,
+            "Name": "punk rock"
+        },
+        {
+            "Count": 1,
+            "Name": "seen live"
+        },
+        {
+            "Count": 2,
+            "Name": "oi"
+        },
+        {
+            "Count": 1,
+            "Name": "english"
+        },
+        {
+            "Count": 1,
+            "Name": "england"
+        }
+    ],
+    "Relations": null
+}

@@ -2,18 +2,18 @@ package main
 
 func main() {
 	// use musicbrainz web service
-	//searchArtist("Cock Sparrer")
+	// searchArtist("Cock Sparrer")
 
 	// get the current working directory
-	//getWorkingDir()
+	_, _ = getWorkingDir()
 
 	// create a new absolute path
-	//getAbsPath()
+	path, _ := getAbsPath("db")
 
 	// startMongod()
 	// time.Sleep(time.Hour * 1)
 
-	// doesPathExist()
-
-	createNewDirectory()
+	if doesPathExist(path) != true {
+		createNewDirectory(path)
+	}
 }

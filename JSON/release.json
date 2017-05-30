@@ -1,0 +1,2901 @@
+[{
+        "ID": "b0aed493-4232-4b23-a92d-6d778b9894e7",
+        "Title": "Run Away",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "e8e7ea64-45c5-3a9d-af3d-6758f2a84be6",
+            "Type": "EP",
+            "PrimaryType": "EP",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1995-01-01T00:00:00Z",
+        "CountryCode": "DE",
+        "Barcode": "4018195169729",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "Bitzcore 1697",
+            "Label": {
+                "ID": "aed0e592-cbb9-4cdd-a398-440a7e959300",
+                "Name": "Bitzcore",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "a0a5082b-1d66-4ed3-9f69-4a67958160e7",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1982-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "",
+            "Label": {
+                "ID": "35f9d4b3-5a4f-496c-a2e0-4801058fe891",
+                "Name": "Carrère",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "df50b1f4-b194-42b2-aa43-2a04f850dbb7",
+        "Title": "Runnin' Riot in '84",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "ae3ad85b-9363-4829-9e2a-b83b75734ce6",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1996-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "B00004SYET",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY CD 57",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "26ddfd09-5821-41a0-9b73-8f383508cff0",
+        "Title": "Chip on My Shoulder",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "9fe2894f-f33a-3d57-8942-344b31b777bc",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1999-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "664813211222",
+        "Asin": "B00000JP8I",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "MAYO CD 112",
+            "Label": {
+                "ID": "61f40306-aeeb-4cf5-b302-7e12b6eabe91",
+                "Name": "The Harry May Record Company",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "0f36b84e-f33d-48dd-97c9-b241543c55dc",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1993-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY CD 4",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "00f92e96-b74d-37fe-b570-9e7cce8d7375",
+        "Title": "Live and Loud!!",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "49118660-6547-33ff-a57c-99ec0ad67c73",
+            "Type": "Live",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1998-09-01T00:00:00Z",
+        "CountryCode": "DE",
+        "Barcode": "",
+        "Asin": "B000007Y1Q",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "KOCD084",
+            "Label": {
+                "ID": "110f7453-6a31-4af9-b06f-d29a00a3e37e",
+                "Name": "Knock Out Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "972fb9fd-0c55-3f4c-8fc9-4cdcf814d69a",
+        "Title": "Live and Loud!!",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "49118660-6547-33ff-a57c-99ec0ad67c73",
+            "Type": "Live",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1998-09-01T00:00:00Z",
+        "CountryCode": "DE",
+        "Barcode": "4024572059118",
+        "Asin": "B000007Y1Q",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "KOLP084",
+            "Label": {
+                "ID": "110f7453-6a31-4af9-b06f-d29a00a3e37e",
+                "Name": "Knock Out Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "a92b4554-0dbe-3bb0-b839-33a3c804f62e",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2008-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "5032556100427",
+        "Asin": "B000028482",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY CD4",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "3a804139-2c71-4233-b8bb-6f748d5b456e",
+        "Title": "Running Riot in '84",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "ae3ad85b-9363-4829-9e2a-b83b75734ce6",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1984-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "SYN LP 7",
+            "Label": {
+                "ID": "cdf6fa92-1608-4ca6-a36d-ecb3dedaf0b0",
+                "Name": "Syndicate Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "132ff286-c483-45cd-aea0-33ace5d498c5",
+        "Title": "Running Riot in '84 / Live and Loud",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "68159880-58bb-438b-865c-3c238accbbe4",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2002-01-01T00:00:00Z",
+        "CountryCode": "US",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "TAANG! 153",
+            "Label": {
+                "ID": "7b95d1f1-2588-4a00-b093-e80e40a08548",
+                "Name": "Taang! Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "4a636617-6321-4d67-b9bc-b89514c741f2",
+        "Title": "Guilty As Charged 2009",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "c1d411f3-4d97-3933-ad19-9734c4f3f1b8",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2009-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "5032556130622",
+        "Asin": "B001P9PX4I",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY CD 306",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "4d5a7c6c-d963-4bd9-8744-724851be5ede",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1996-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY LP 4",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "ced5966f-98f1-4032-aa06-4e9ef85f036a",
+        "Title": "Running Riot in '84",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "ae3ad85b-9363-4829-9e2a-b83b75734ce6",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1996-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY LP 57",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "bd183e46-790f-41eb-b4a1-99892d3f79e8",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2009-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY PD 4",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "b57b9b3e-1625-4159-a945-b5ebc9401aac",
+        "Title": "Two Monkeys 2009",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "bbac9b8d-0c08-3127-84dd-192ad6d9788f",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2009-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY PD 307",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "b817e72d-9c27-4c44-94ae-290bab54a1a5",
+        "Title": "Guilty As Charged 2009",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "c1d411f3-4d97-3933-ad19-9734c4f3f1b8",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2009-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY PD 306",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "53bbef71-93b1-4dec-bd53-dd0cc9751e03",
+        "Title": "Here We Stand",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "69d400cf-4d75-3d58-ace8-1bb5a92d50d1",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2007-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY PD 298",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "6cde3c01-7899-4a89-bd2b-f6b2deaea649",
+        "Title": "The Decca Years",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "16ea409b-3ec2-3bd3-9943-44af9f36ef52",
+            "Type": "Compilation",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2006-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AHOY PD 279",
+            "Label": {
+                "ID": "3a12cdfc-fed4-43fd-8ed8-e8ee96277bdc",
+                "Name": "Captain Oi!",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "97a3a8d0-af1c-4d44-a0ef-ae298aba24fc",
+        "Title": "Runnin' Riot",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "ae3ad85b-9363-4829-9e2a-b83b75734ce6",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1988-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "LINK LP 032",
+            "Label": {
+                "ID": "54f5dd58-3c1a-4c05-a6df-20079a3a172c",
+                "Name": "Link Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "7cafabae-6236-49c3-b38c-56bfc5408561",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1991-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "5017705114111",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "LINK LP 141",
+            "Label": {
+                "ID": "54f5dd58-3c1a-4c05-a6df-20079a3a172c",
+                "Name": "Link Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "6645661f-3a54-4071-b371-5401b8862013",
+        "Title": "England Belongs to Me",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "36439128-ef93-4df4-ba48-11520dcfb9f2",
+            "Type": "Single",
+            "PrimaryType": "Single",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1997-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "AWOL 3",
+            "Label": {
+                "ID": "61f40306-aeeb-4cf5-b302-7e12b6eabe91",
+                "Name": "The Harry May Record Company",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "7\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "5955484f-e952-4d2f-ae88-3233e5443ad7",
+        "Title": "England Belongs to Me",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "56acc817-bff4-3a56-8ee5-f58b420595fa",
+            "Type": "Compilation",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1997-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "638832100720",
+        "Asin": "B000007Y1M",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "CAN CAN 7",
+            "Label": {
+                "ID": "61f40306-aeeb-4cf5-b302-7e12b6eabe91",
+                "Name": "The Harry May Record Company",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "a77d78ec-a016-4d12-8856-2018d59292c7",
+        "Title": "England Belongs to Me",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "56acc817-bff4-3a56-8ee5-f58b420595fa",
+            "Type": "Compilation",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "2002-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "664813213028",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "MAYO CD 130",
+            "Label": {
+                "ID": "61f40306-aeeb-4cf5-b302-7e12b6eabe91",
+                "Name": "The Harry May Record Company",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "CD",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "6f68152a-c3fc-428c-9711-6300031c6871",
+        "Title": "Rumours Carry More Weight Than Fact: The Best of Cock Sparrer",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "5f51a32e-975a-3e50-b7f0-727bb45a73a6",
+            "Type": "Compilation",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1996-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "5025703101415",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "STEP LP 014",
+            "Label": {
+                "ID": "16b8d051-fa2f-46fe-ac6a-402fc63e3913",
+                "Name": "Step-1 Music",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    },
+    {
+        "ID": "c85816aa-8ce6-4053-a281-d3041633f0bf",
+        "Title": "Shock Troops",
+        "Status": "Official",
+        "Disambiguation": "",
+        "TextRepresentation": {
+            "Language": "eng",
+            "Script": "Latn"
+        },
+        "ArtistCredit": {
+            "NameCredits": [{
+                "Artist": {
+                    "ID": "bbcc9824-31c0-4c70-a7af-d24090ea161e",
+                    "Type": "",
+                    "Name": "Cock Sparrer",
+                    "Disambiguation": "",
+                    "SortName": "Cock Sparrer",
+                    "CountryCode": "",
+                    "Gender": "",
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Area": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "BeginArea": {
+                        "ID": "",
+                        "Type": "",
+                        "Name": "",
+                        "SortName": "",
+                        "ISO31662Codes": null,
+                        "Lifespan": {
+                            "Begin": "0001-01-01T00:00:00Z",
+                            "End": "0001-01-01T00:00:00Z",
+                            "Ended": false
+                        },
+                        "Aliases": null
+                    },
+                    "Aliases": [{
+                        "Name": "Cocksparrer",
+                        "SortName": "Cocksparrer",
+                        "Locale": "",
+                        "Type": "",
+                        "Primary": ""
+                    }],
+                    "Tags": null,
+                    "Relations": null
+                }
+            }]
+        },
+        "ReleaseGroup": {
+            "ID": "64771495-a553-34c7-ace1-c308245bfab9",
+            "Type": "Album",
+            "PrimaryType": "Album",
+            "Title": "",
+            "ArtistCredit": {
+                "NameCredits": null
+            },
+            "Releases": null,
+            "Tags": null
+        },
+        "Date": "1983-01-01T00:00:00Z",
+        "CountryCode": "GB",
+        "Barcode": "",
+        "Asin": "",
+        "Quality": "",
+        "LabelInfos": [{
+            "CatalogNumber": "RAZ 9",
+            "Label": {
+                "ID": "139e5724-14d9-4565-a709-d3c20520cd94",
+                "Name": "Razor Records",
+                "Type": "",
+                "SortName": "",
+                "Disambiguation": "",
+                "CountryCode": "",
+                "Area": {
+                    "ID": "",
+                    "Type": "",
+                    "Name": "",
+                    "SortName": "",
+                    "ISO31662Codes": null,
+                    "Lifespan": {
+                        "Begin": "0001-01-01T00:00:00Z",
+                        "End": "0001-01-01T00:00:00Z",
+                        "Ended": false
+                    },
+                    "Aliases": null
+                },
+                "LabelCode": 0,
+                "Lifespan": {
+                    "Begin": "0001-01-01T00:00:00Z",
+                    "End": "0001-01-01T00:00:00Z",
+                    "Ended": false
+                },
+                "Aliases": null
+            }
+        }],
+        "Mediums": [{
+            "Format": "12\" Vinyl",
+            "Position": 0,
+            "Tracks": null
+        }],
+        "Relations": null
+    }
+]

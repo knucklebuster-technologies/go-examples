@@ -1,72 +1,59 @@
 package main
 
 import (
-	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 )
 
-func getWorkingDir() {
+func getWorkingDir() (string, error) {
 	dir, err := os.Getwd()
 	if err != nil {
-		log.Println(err)
-		os.Exit(1)
+		log.Println("ERROR:", err)
+		return "", err
 	}
-
-	fmt.Println("CURRENT PATH:", dir)
+	log.Println("WORKING DIRECTORY:", dir)
+	return dir, nil
 }
 
-func getAbsPath() {
-	dir, err := os.Getwd()
+func getAbsPath(relative string) (string, error) {
+	dir, err := filepath.Abs(relative)
 	if err != nil {
-		log.Println(err)
-		os.Exit(1)
+		log.Println("ERROR:", err)
+		return "", err
 	}
-
-	abs := dir + `\db`
-	fmt.Println("ABSOLUTE PATH:", abs)
+	log.Println("ABSOLUTE PATH:", dir)
+	return dir, err
 }
 
-func doesPathExist() {
-	dir, err := os.Getwd()
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
-
-	log.Println("PATH TO TEST:", dir)
-	info, err := os.Stat(dir)
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
-
-	log.Println("DIRECTORY STATUS:", info)
-
-	dir = dir + `\db`
-	log.Println("PATH TO TEST:", dir)
-	info, err = os.Stat(dir)
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
-
-	log.Println("DIRECTORY STATUS:", info)
-}
-
-func createNewDirectory() {
-	dir, err := os.Getwd()
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
-
-	newDir := dir + `\db`
-
-	info, err := os.Stat(newDir)
+func doesPathExist(path string) bool {
+	_, err := os.Stat(path)
 	if os.IsNotExist(err) {
-		os.Mkdir(newDir, 0777)
-	} else {
-		log.Println("PATH EXISTS:", info)
+		log.Println("PATH NOT EXISTS:", path)
+		return false
 	}
+	log.Println("PATH EXISTS:", path)
+	return true
+}
+
+func createNewDirectory(path string) bool {
+	exists := doesPathExist(path)
+	if exists != true {
+		os.Mkdir(path, 0777)
+		log.Println("DIRECTORY CREATED")
+		return true
+	}
+	log.Println("DIRECTORY EXISTS")
+	return false
+}
+
+func writeFile(name string, data []byte, mode os.FileMode) error {
+	err := ioutil.WriteFile(name, data, mode)
+	if err != nil {
+		log.Println(err)
+		os.Exit(1)
+	}
+
+	return nil
 }
