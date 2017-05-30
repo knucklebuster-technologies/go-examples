@@ -7,7 +7,7 @@ func main() {
 	// get the current working directory
 	_, _ = getWorkingDir()
 
-	// create a new absolute path
+	// get an absolute path
 	path, _ := getAbsPath("db")
 
 	// startMongod()
